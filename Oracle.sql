@@ -1,3 +1,5 @@
+
+
 -- Create UserCredentials table with larger sizes
 CREATE TABLE UserCredentials (
     user_id NUMBER PRIMARY KEY,
